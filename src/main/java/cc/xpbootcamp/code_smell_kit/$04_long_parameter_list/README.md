@@ -33,3 +33,23 @@ Example04:
     }
 
 ```
+举例二
+From [Github](https://github.com/lkp7321/sour/blob/06ac40e140bad1dc1e7b3590ce099bc02ae065f2/fxadmin/src/main/java/com/ylxx/fx/service/impl/LogfileCmdServiceImpl.java)
+```java
+/**
+ * 查询审计日志
+ */
+@Override
+public PageInfo<Logfile> selectMng_logAll(String strusnm,String usnm,String trdt,String endt,String handle,Integer pageNo, Integer pageSize) {
+  List<Logfile> list = null;
+  pageNo = pageNo == null?1:pageNo;
+    pageSize = pageSize == null?10:pageSize;
+    PageHelper.startPage(pageNo, pageSize);
+  try {
+    list = logfilecmdMap.selectMng_logAll(strusnm,usnm,trdt,endt,handle);
+  } catch (Exception e) {
+    log.error(e.getMessage(), e);
+  }
+  return new PageInfo<Logfile>(list);
+}
+```
