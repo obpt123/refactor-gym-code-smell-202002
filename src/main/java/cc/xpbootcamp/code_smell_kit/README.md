@@ -8,6 +8,7 @@
 | $04_long_parameter_list|付施威|| 
 | $05_global_data|付施威||
 | $06_mutable data | 张朵 ||
+| $07_divergent_change | 张朵 ||
 | $08_shotgun_surgery | 马勇 |  |
 | $09_feature_envy | 马勇 | |
 | $10_data_clumps|杨鹏博|From [github](https://github.com/tcongwu/Myconf/blob/bfe2f0798e3d1f91db0b3711f50bd624532ceb82/sources/src/org/myconf/formbean/PaperForm.java)|
