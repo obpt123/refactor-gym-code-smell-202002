@@ -1,7 +1,7 @@
 ## 作业2 - 闻味寻码
 
-|名称|提交人|说明|
-|-|-|-|
+|名称|提交人|说明|  
+|---|---|---|
 | $01_mysterious_name | 杨鹏博| From [github](https://github.com/lkp7321/sour/blob/06ac40e140bad1dc1e7b3590ce099bc02ae065f2/fxadmin/src/main/java/com/ylxx/fx/service/po/jsh/Trd_tranlist.java)
 | $02_duplicated_code | 杨鹏博 | From $23_refused_request |
 | $03_long_method | 王亚鑫 |  |
@@ -13,3 +13,4 @@
 | $20_large_class | 杨鹏博 | From [github](https://github.com/MxJ3lany/ExtractionFiles/blob/e4202ae097b1ff221972e2b14d1e13ed91eb979b/010_meganz_android/src1/mega/privacy/android/app/utils/RTFFormatter.java)  |
 | $23_refused_request | 付施威 | |
 | $24_comments | 王亚鑫 |  |
+| $08_shotgun_surgery | 马勇 |  |
