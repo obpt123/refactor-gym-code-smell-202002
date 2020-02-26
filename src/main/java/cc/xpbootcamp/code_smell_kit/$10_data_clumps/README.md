@@ -2,7 +2,7 @@
 
 举例1:
 From [Github](https://github.com/tcongwu/Myconf/blob/bfe2f0798e3d1f91db0b3711f50bd624532ceb82/sources/src/org/myconf/formbean/PaperForm.java)
-
+Author的Firstname，LastName，Email，Institute 可以封装为对象
 ```java
 package org.myconf.formbean;
 
