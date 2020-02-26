@@ -11,6 +11,7 @@
 | $12_repeated_switch | 杨鹏博 | From [github](https://github.com/PlanetacraftBR/CHProject/blob/b33ac681e3e349f759c3ef026672ec98ab922111/src/main/java/me/security/GeoIP/regionName.java) |
 | $13_loops | 王亚鑫 |  |
 | $14_lazy_element | 杨鹏博 |  |
+| $15_speculative_generality | 杨鹏博 |  |
 | $20_large_class | 杨鹏博 | From [github](https://github.com/MxJ3lany/ExtractionFiles/blob/e4202ae097b1ff221972e2b14d1e13ed91eb979b/010_meganz_android/src1/mega/privacy/android/app/utils/RTFFormatter.java)  |
 | $22_data_class | 余平涛 | |
 | $23_refused_request | 付施威 | |
