@@ -53,3 +53,18 @@ public PageInfo<Logfile> selectMng_logAll(String strusnm,String usnm,String trdt
   return new PageInfo<Logfile>(list);
 }
 ```
+
+举例三
+From project
+* 语言：python
+* 执行sql语句并更新log日志表
+* 该方法只截取了部分并已脱敏
+```
+
+def exec_sql_and_update_log(group, order, sql_script, contact_person_emails):
+    contact_person_emails = contact_person_emails.split(';') if type(contact_person_emails) is str else contact_person_emails
+
+    print(f'Start to execute SQL Script: {sql_script} of group:{group} and order: {order}')
+    now_time = get_now_beijing_time()
+    log_id = get_next_insert_id(SCHEMA_NAME, LOG_TABLE_NAME)
+```
