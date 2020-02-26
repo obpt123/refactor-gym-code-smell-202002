@@ -19,6 +19,7 @@
 | $16_temporary_field | 张朵 |  |
 | $17_message_chains | 马勇| |
 | $18_middle_man | 张朵 |  |
+| $19_insider_trading | 余平涛 |  |
 | $20_large_class | 杨鹏博 | From [github](https://github.com/MxJ3lany/ExtractionFiles/blob/e4202ae097b1ff221972e2b14d1e13ed91eb979b/010_meganz_android/src1/mega/privacy/android/app/utils/RTFFormatter.java)  |
 | $21_alternative_classes_with_different_interfaces | 张朵 |  |
 | $22_data_class | 余平涛 | |
