@@ -12,6 +12,7 @@
 | $08_shotgun_surgery | 马勇 |  |
 | $09_feature_envy | 马勇 | |
 | $10_data_clumps|杨鹏博|From [github](https://github.com/tcongwu/Myconf/blob/bfe2f0798e3d1f91db0b3711f50bd624532ceb82/sources/src/org/myconf/formbean/PaperForm.java)|
+| $11_primitive_obsession|付施威||
 | $12_repeated_switch | 杨鹏博 | From [github](https://github.com/PlanetacraftBR/CHProject/blob/b33ac681e3e349f759c3ef026672ec98ab922111/src/main/java/me/security/GeoIP/regionName.java) |
 | $13_loops | 王亚鑫 |  |
 | $14_lazy_element | 杨鹏博 |  |
