@@ -11,6 +11,6 @@
 | $13_loops | 王亚鑫 |  |
 | $14_lazy_element | 杨鹏博 |  |
 | $20_large_class | 杨鹏博 | From [github](https://github.com/MxJ3lany/ExtractionFiles/blob/e4202ae097b1ff221972e2b14d1e13ed91eb979b/010_meganz_android/src1/mega/privacy/android/app/utils/RTFFormatter.java)  |
+| $22_data_class | 余平涛 | |
 | $23_refused_request | 付施威 | |
-| $24_comments | 王亚鑫 |  |
-| $08_shotgun_surgery | 马勇 |  |
+| $24_comments | 王亚鑫 |  || $08_shotgun_surgery | 马勇 |  |
