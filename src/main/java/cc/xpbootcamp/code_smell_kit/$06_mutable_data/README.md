@@ -9,7 +9,7 @@ import java.util.Map;
 class Storage {
     private Map<Student, List<Object>> borrowedObj;
 
-    public addBook(Student student, Book book) {
+    public void addBook(Student student, Book book) {
         List<Object> objects = borrowedObj.get(student);
         if (null == objects) {
             objects = new ArrayList<>();
@@ -18,7 +18,7 @@ class Storage {
         borrowedObj.put(student, objects);    
     } 
     
-    public addSport(Student student, Sport sport) {
+    public void addSport(Student student, Sport sport) {
             List<Object> objects = borrowedObj.get(student);
             if (null == objects) {
                 objects = new ArrayList<>();
