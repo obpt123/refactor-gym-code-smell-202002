@@ -7,7 +7,7 @@
 | $03_long_method | 王亚鑫 |  |
 | $04_long_parameter_list|付施威|| 
 | $05_global_data|付施威||
-| $06_mutable data | 张朵 |
+| $06_mutable data | 张朵 ||
 | $08_shotgun_surgery | 马勇 |  |
 | $10_data_clumps|杨鹏博|From [github](https://github.com/tcongwu/Myconf/blob/bfe2f0798e3d1f91db0b3711f50bd624532ceb82/sources/src/org/myconf/formbean/PaperForm.java)|
 | $12_repeated_switch | 杨鹏博 | From [github](https://github.com/PlanetacraftBR/CHProject/blob/b33ac681e3e349f759c3ef026672ec98ab922111/src/main/java/me/security/GeoIP/regionName.java) |
